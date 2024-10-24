@@ -7,6 +7,6 @@
 - Исследовать полученные данные с использованием графического метода
 - Очистить данные
 **Источники данных**:
-1. Датасет по соискателям можно найти [тут]([http://example.com/link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view))
+1. Датасет по соискателям можно найти [тут]([http://example.com/link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) "Подсказка, тут текст подсказки")
 
 
