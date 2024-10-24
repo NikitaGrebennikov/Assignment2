@@ -1,2 +1,1 @@
-# Assignment2
-SF Assignment
+# PROJECT - 1. Анализ резюме из HeadHanter
