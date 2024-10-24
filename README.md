@@ -11,8 +11,8 @@
 **Библиотеки:** pandas, numpy, matplotlib.pyplot, seaborn, plotly.express
 ## Примечание
 В связи с тем, что библиотека plotly и GitHub **несовместимы**, нужно использовать один из следующих способов:
-1. Перейти по [ссылке](https://nbviewer.org)
-2. Вставить данную ссылку 'https://github.com/NikitaGrebennikov/Assignment2/blob/5bfd4886251b909c8b232a4e782f33ed10d4901d/PROJ_HH.ipynb' в строке сайта
+- Перейти по [ссылке](https://nbviewer.org)
+- Вставить данную ссылку 'https://github.com/NikitaGrebennikov/Assignment2/blob/5bfd4886251b909c8b232a4e782f33ed10d4901d/PROJ_HH.ipynb' в строке сайта
 3. Нажать GO!
 4. Подождать завершение загрузки или обновить страницу
 
